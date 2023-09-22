@@ -1,0 +1,501 @@
+.custom-container {
+    max-width: 1200px; /* You can adjust the value to your preference */
+    margin: 0 auto; /* Center the container horizontally */
+  }
+.nav-item-1{
+    background: linear-gradient(90deg, #0FE2FF 0.32%, #0028FB 102.55%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+@media screen and (min-width:  767px){
+    .navbar-brand-1{
+        margin-left: 3vw;
+        position: relative;
+        left: 19vw;
+    }
+}
+    
+
+.btn {
+    background: linear-gradient(90deg, #8A1BF6 0%, #C03087 51.35%, #C03087 51.36%, #F94612 100%, #F91212 100%);
+    color: white;
+    border-radius: 2.9282576866764276vw;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.171303074670571vw;
+    font-family: Montserrat;
+    text-align: center;
+}
+
+.navbar-center {
+    display: flex;
+    justify-content: center;
+}
+.nav{
+    background:#180A25 !important;
+    background-color: #180A25;
+    border-radius: 60px;
+border: 1px solid #1CD6FF;
+background: rgba(24, 10, 37, 0.90);
+
+}
+
+@media (max-width: 767px) {
+    .navbar {
+        border: none;
+         /* Remove the border for mobile devices */
+    }
+}
+
+
+
+
+.careers{
+    background: linear-gradient(92deg, #8A1BF6 0%, #B562FF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-left: 32.995607613469986vw;
+    padding-top: 10.961932650073209vw;
+    letter-spacing: 0.29282576866764276vw;
+}
+@media screen and ( min-width:767px) {
+ .careers{
+    margin-left: -2.0043923865300144vw
+    
+ }
+ 
+    
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background:#180A25 !important;
+    overflow-x: hidden;
+}
+.magic{
+    color: #FFF;
+text-align: center;
+font-family: Montserrat;
+font-size: 5.124450951683748vw;
+font-style: normal;
+font-weight: 1900;
+line-height: 6.222547584187408vw; /* 121.429% */
+}
+.Productization{
+    background: linear-gradient(90deg, #FF00B8 0%, #B312E0 37.67%, #DE08C9 71.17%, #8A1BF6 105.43%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+text-align: center;
+font-family: Montserrat;
+font-size: 5.124450951683748vw;
+font-style: normal;
+font-weight: 700;
+line-height: 6.222547584187408vw; /* 121.429% */
+}
+.open{
+    width: 26.13469985358712vw;
+height: 3.513909224011713vw;
+flex-shrink: 0;
+border-radius: 1.2445095168374818vw;
+background: #500F90;
+position: relative;
+left: 36.603221083455345vw;
+
+}
+@media screen and (min-width:767px) {
+    .open{
+        left: 25.603221083455345vw;
+    }
+}
+.roles{
+    text-align: center;
+font-family: Montserrat;
+font-size: 1.8301610541727673vw;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+background: linear-gradient(180deg, #FFF 0%, #C4C4C4 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+text-align: center;
+padding-top: 0.43923865300146414vw;
+}
+.intelligent{
+    width: 47.58418740849194vw;
+    color: #FFF;
+font-family: Montserrat;
+font-size: 2.9282576866764276vw;
+font-style: normal;
+font-weight: 700;
+line-height: 3.6603221083455346vw; /* 125% */
+padding-left: 14.641288433382138vw;
+}
+@media screen and (min-width:767px) {
+    .intelligent{
+        padding-left: 2.6412884333821385vw;
+    }
+}
+
+.para1{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.8301610541727673vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw; /* 160% */
+padding-left: 14.641288433382138vw;
+}
+@media screen and (min-width:767px) {
+    .para1{
+        padding-left: 2.6412884333821385vw;
+    }
+}
+
+.wevalue{
+    background: linear-gradient(0deg, #FF00F5, #9B3EF6 );
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Montserrat;
+font-size: 1.8301610541727673vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+padding-left: 14.641288433382138vw;
+}
+@media screen and (min-width:767px) {
+    .wevalue{
+        padding-left: 2.6412884333821385vw;
+    }
+}
+
+.para2{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.3177159590043925vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+padding-left: 14.641288433382138vw;
+}
+@media screen and (min-width:767px) {
+    .para2{
+        padding-left: 2.6412884333821385vw;
+    }
+}
+.para2s{
+    color: #8A1BF6;
+font-family: Montserrat;
+font-size: 1.8301610541727673vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+}
+.explore{
+    color: #B672F8;
+font-family: Montserrat;
+font-size: 1.8301610541727673vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw; /* 160% */
+padding-left: 14.641288433382138vw;
+}
+@media screen and (min-width:767px) {
+    .explore{
+        padding-left: 2.6412884333821385vw;
+    }
+}
+.terms{
+    color: #B672F8;
+font-family: Montserrat;
+font-size: 1.8301610541727673vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw; /* 160% */
+padding-left: 23.12445095168374vw;
+}
+@media screen and (min-width:767px) {
+    .terms{
+        padding-left: 16.12445095168374vw;
+    }
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between; /* Adjust alignment as needed */
+  }
+  
+  .text-block {
+    flex: 1; /* Distribute available space equally */
+  }
+  
+.hr-1{
+    color: #D9D9D9;
+    width: 81.11288433382138vw;
+    height: 0.021961932650073204vw;
+
+}
+.growth{
+    color: #D9D9D9;
+text-align: center;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+}
+.a{
+    margin-left: 0.44509500000000024vw;
+    margin-top: .6603551083vw;
+}
+.b{
+    margin-left: 2.269322vw;
+}
+.c{
+    margin-left: 4.46559292vw;
+}
+.d{
+    margin-left: 6.6617862vw;
+}
+.e{
+    margin-left: 17.8579795vw;
+}
+@media screen and (min-width:767px) {
+    .d{
+        position: relative;
+        left: 8vw;
+    }
+}
+@media screen and (min-width:767px) {
+    .c{
+        position: relative;
+        left: 6vw;
+    }
+}
+@media screen and (min-width:767px) {
+    .b{
+        position: relative;
+        left: 4vw;
+    }
+}
+
+
+
+.content3 {
+    display: flex;
+    width: 4784px; /* Your original width */
+    height: 835px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+@media screen and (min-width: 768px) {
+    .content3 {
+        margin-left: 202px;
+    }
+}
+
+.join {
+    width: 82vw;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 3.89345vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px;
+    position: relative;
+    top: -21vw;
+    left: -88vw;
+}
+
+
+/* Media query for smaller screens (mobile) */
+@media screen and (max-width: 768px) {
+    .join {
+        font-size: 30px; /* Font size for mobile */
+    }
+}
+
+.We’re {
+    width: 998px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    position: relative;
+    top: -15vw;
+    left: -170vw;
+
+}
+
+.meet {
+    color: #B065FA;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    position: relative;
+    top: -11vw;
+    left: -235vw;
+}
+
+/* Media query for smaller screens */
+@media screen and (max-width: 768px) {
+    .content3 {
+        display: block; /* Display as block on smaller screens */
+        width: 100%; /* Full width on smaller screens */
+        height: auto; /* Allow the height to adjust based on content */
+    }
+
+    .join, .We’re, .meet {
+        width: 100%; /* Allow text to take full width on smaller screens */
+        text-align: center; /* Center-align text on smaller screens */
+        margin: 0 auto; /* Center the content horizontally */
+        position: static; /* Reset position */
+        top: auto; /* Reset top position */
+        left: auto; /* Reset left position */
+    }
+}
+/* Default styles for large screens (desktop) */
+
+
+
+
+.content4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: -20px;
+}
+@media screen and (min-width: 768px) {
+    .content4 {
+        margin-top: -68vh;
+        margin-left: 0;
+    }
+
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.item {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Adjust the size of the images based on screen width */
+.chat,
+.heart,
+.idea,
+.people,
+.speed,
+.ship {
+    width: 60px;
+    height: 60px;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Adjust the font size and line height for responsive text */
+.l1,
+.l2,
+.l3,
+.l4,
+.l5,
+.l6 {
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 10px;
+    color: white;
+}
+
+/* Media query for desktop screens */
+@media screen and (min-width: 769px) {
+    .content4 {
+        flex-direction: row;
+    }
+    .row {
+        flex-direction: row;
+    }
+}
+.we1 {
+    color: #D9D9D9;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 2.512562814070352vh;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 5.025125628140704vh;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow: hidden; /* Hide any text that overflows the container */
+  text-overflow: ellipsis; /* Show ellipsis (...) for text that overflows / / Prevent text from wrapping */
+}
+
+.icons {
+    text-align: center;
+    padding: 20px;
+}
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image-container img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    margin: 1px;
+}
+
+
+/* Media query for desktop screens */
+@media screen and (min-width: 769px) {
+    .we1 {
+        font-size: 20px;
+        line-height: 40px;
+    }
+}
+@media screen and (min-width: 769px){
+    .image-container{
+        position: relative;
+        top: 5vh;
+    }
+    .django{
+     position: relative;
+     left: -25vh
+    }
+    .fig{
+        position: relative;
+        left: -18vh
+    }
+    .google{
+        position: relative;
+        left: -10vh
+    }
+    .flutter{
+        position: relative;
+        left: -1vh
+    }
+    .atom{
+        position: relative;
+        left: 10vh
+    }
+    .aws{
+        position: relative;
+        left: 26vh
+    }
+}
